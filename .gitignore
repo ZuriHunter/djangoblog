@@ -1,5 +1,6 @@
 *.pyc
 blog/__pycache__
+blog/migrations/__pycache__
 djangoblog/__pycache__
 myvenv
 db.sqlite3
